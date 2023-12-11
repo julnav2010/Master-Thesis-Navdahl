@@ -1,6 +1,7 @@
 # Master-Thesis-Navdahl
 Code utilized to obtain the results in my master thesis: Climate responses to a rapid phaseout of Black Carbon emissions, with a focus on the Asian summer monsoon.
-Can be found in the folder GitHub.
+
+The code is available in the folder 'Github' in this repository.
 
 Abstract: 
 
