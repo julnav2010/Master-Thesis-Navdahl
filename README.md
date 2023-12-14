@@ -1,6 +1,10 @@
 # Master-Thesis-Navdahl
 Code utilized to obtain the results in my master thesis: Climate responses to a rapid phaseout of Black Carbon emissions, with a focus on the Asian summer monsoon.
 
+The simulations were performed on resources provided by 
+Sigma2 - the National Infrastructure for High Performance Computing and 
+Data Storage in Norway.
+
 The code is available in the folder 'Github' in this repository.
 
 Abstract: 
